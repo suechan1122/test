@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Game_Programing\Dxlib_study\Dxlib2DGames\DxLib_h\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  player.cpp
+D:\Game_Programing\Dxlib_study\Dxlib2DGames\DxLib_h\dxlib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コードを生成中...
+  2DGameProto.vcxproj -> D:\Game_Programing\Dxlib_study\Dxlib2DGames\Projects\A09-2DGameProto(map)\Debug\2DGameProto.exe

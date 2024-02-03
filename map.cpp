@@ -14,6 +14,7 @@ sMapLayer layerNear;
 sMapLayer layerBase;
 sMapLayer layerBack;
 
+
 int mapChipImg[64]; // ‰æ‘œƒnƒ“ƒhƒ‹”z—ñ
 
 /// <summary>
